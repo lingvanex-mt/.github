@@ -13,7 +13,7 @@ For specific issues related to one of our libraries, please open an issue in the
 - [All Products](https://lingvanex.com/all-products)
 
 **See Also**  
-[![Our Site](https://img.shields.io/badge/Landing_Page-blue)] -  https://lingvanex.com/  
+[Our Site](https://img.shields.io/badge/Landing_Page-blue) -  https://lingvanex.com/  
 Our Blog - https://lingvanex.com/en/blog/  
 
 **If you have any questions, just email info@lingvanex.com**
