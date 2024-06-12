@@ -1,4 +1,4 @@
-# Welcome to Lingvanex@GitHub
+## Welcome to Lingvanex@GitHub
 
 Our aim is to transform Your Business with the world's best On-Premise machine translation technology. The main goal of our secure machine translation is to ensure that people who do not speak the same language can understand the content of text in one language by providing a translation in their native language.
 
