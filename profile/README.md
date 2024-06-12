@@ -15,8 +15,8 @@ For specific issues related to one of our libraries, please open an issue in the
 **See Also**  
 ![Our Site](https://img.shields.io/badge/Our_Site-blue) -  [!(https://img.shields.io/badge/Our_Site-blue)](https://lingvanex.com)  
 Our Blog - https://lingvanex.com/en/blog/  
-[![Landing Page](https://img.shields.io/badge/Landing_Page-grey)](https://deepl.com/pro-api)
-[![deepl.com/pro-api](https://img.shields.io/badge/deepl.com/pro--api-darkblue)](https://deepl.com/pro-api)  
+[![Our Site](https://img.shields.io/badge/Our_Site-grey)](https://lingvanex.com/)
+[![lingvanex.com](https://img.shields.io/badge/deepl.com/lingvanex.com-darkblue)](https://lingvanex.com/)  
 [![API Docs](https://img.shields.io/badge/API_Docs-grey)](https://developers.deepl.com)
 [![developers.deepl.com](https://img.shields.io/badge/developers.deepl.com-darkblue)](https://developers.deepl.com)
 
