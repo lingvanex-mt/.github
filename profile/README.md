@@ -8,8 +8,8 @@ For specific issues related to one of our libraries, please open an issue in the
 
 **Our Products**
 -Cloud API
--On-Premise Machine Translation Software
--Mobile SDK
+*On-Premise Machine Translation Software
++Mobile SDK
 -All Products
 
 **See Also**
