@@ -6,14 +6,14 @@
 
 For specific issues related to one of our libraries, please open an issue in the corresponding project.
 
-**Our Products**
+**Our Products**  
 -Cloud API  
 *On-Premise Machine Translation Software  
 +Mobile SDK  
 -All Products
 
-**See Also**
-Our Site -  https://lingvanex.com/ 
+**See Also**  
+Our Site -  https://lingvanex.com/  
 Our Blog - https://lingvanex.com/en/blog/ 
 
 **If you have any questions, just email info@lingvanex.com**
