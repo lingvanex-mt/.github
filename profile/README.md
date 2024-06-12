@@ -15,5 +15,7 @@ For specific issues related to one of our libraries, please open an issue in the
 **See Also**  
 ![Our Site](https://img.shields.io/badge/Our_Site-blue) -  [!(https://img.shields.io/badge/Our_Site-blue)](https://lingvanex.com)  
 Our Blog - https://lingvanex.com/en/blog/  
+[![Landing Page](https://img.shields.io/badge/Landing_Page-blue)](https://lingvanex.com)  
+[![API Docs](https://img.shields.io/badge/API_Docs-blue)](https://lingvanex.com)
 
 **If you have any questions, just email info@lingvanex.com**
